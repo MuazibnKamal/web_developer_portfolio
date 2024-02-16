@@ -139,3 +139,14 @@ main{
 main section{
     margin-top: 130px ;
 }
+
+.resume-column-title{
+    color: #474747;
+    font-family: open Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+
+}
