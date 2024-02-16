@@ -2,7 +2,7 @@ body{
 
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 800;
+  font-weight: 600;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -104,4 +104,16 @@ nav a{
     background-color: hsl(25, 100%, 98%);
     margin: 130px 0px;
 
+}
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
